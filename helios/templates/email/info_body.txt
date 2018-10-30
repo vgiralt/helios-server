@@ -3,7 +3,7 @@
 
 {{custom_message|safe}}
 
-{% blocktrans %}Election Link{% endblocktrans %}: {{election_vote_url}}
+{% trans "Election Link:" %} {{election_vote_url}}
 
 --
 {% trans "Helios" %}
